@@ -33,7 +33,7 @@ A curated collection of research papers on defending Large Language Model (LLM) 
 - **[RedVisor: Reasoning-Aware Prompt Injection Defense via Zero-Copy KV Cache Reuse](https://arxiv.org/abs/2602.01795)** (2026) `D5,D6` `indirect` `inference-layer,system-arch`
   Defends against prompt injection by isolating trusted reasoning from untrusted context via KV cache separation.
 
-- **[Real User Instruction: Black-Box Instruction Authentication Middleware Against Indirect Prompt Injection](https://arxiv.org/abs/2601.12359)** (2026) `D1` `indirect` `input-layer`
+- **[Real User Instruction: Black-Box Instruction Authentication Middleware Against Indirect Prompt Injection](https://www.preprints.org/manuscript/202603.1023)** (2026) `D1` `indirect` `input-layer`
   Middleware that authenticates whether instructions originate from real users vs. injected sources.
   *Venue: Preprints.org*
 
@@ -265,7 +265,7 @@ A curated collection of research papers on defending Large Language Model (LLM) 
 - **[RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage](https://arxiv.org/abs/2510.19207)** (2025) `D1,D3` `indirect,multi-agent` `input-layer,output-layer`
   Defends LLM agents against prompt injection and privacy leakage via input/output control.
 
-- **[Real User Instruction: Black-Box Instruction Authentication Middleware Against Indirect Prompt Injection](https://arxiv.org/abs/2601.12359)** (2026) `D1` `indirect` `input-layer`
+- **[Real User Instruction: Black-Box Instruction Authentication Middleware Against Indirect Prompt Injection](https://www.preprints.org/manuscript/202603.1023)** (2026) `D1` `indirect` `input-layer`
   Middleware that authenticates whether instructions originate from real users vs. injected sources.
   *Venue: Preprints.org*
 
